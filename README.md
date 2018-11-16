@@ -8,8 +8,8 @@
 
 目前支持版本：
 
-* Kubernetes v1.10.3
-* Kubernetes v1.11.0
+* Kubernetes v1.10.*
+* Kubernetes v1.11.*
 
 
 ## 查看gcr.io官方镜像
@@ -22,4 +22,4 @@
 gcr.io/google_containers/IMAGE_NAME:IMAGE_TAG
 
 比如： 
-gcr.io/google_containers/kube-apiserver-amd64:v1.10.3
+gcr.io/google_containers/kube-apiserver-amd64:v1.10.10
